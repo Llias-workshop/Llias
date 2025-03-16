@@ -1,13 +1,14 @@
+import sveltePreprocess from 'svelte-preprocess';
 import adapter from '@sveltejs/adapter-static';
 
-/** @type {import('@sveltejs/kit').Config} */
 const config = {
-	kit: {
-	  adapter: adapter(),
-	  paths: {
-		base: process.env.NODE_ENV === 'production' ? '/Llias' : '',
-	  },
-	},
-  };
+  kit: {
+    adapter: adapter(),
+    paths: {
+      base: '/Llias',  // به جای Llias، اسم ریپوزیتوری شما
+    },
+  },
+  preprocess: sveltePreprocess(),
+};
 
 export default config;
