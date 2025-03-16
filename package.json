@@ -10,8 +10,9 @@
 		"prepare": "svelte-kit sync || echo ''",
 		"format": "prettier --write .",
 		"lint": "prettier --check .",
-		"deploy": "vite build && gh-pages -d dist"
+		"deploy": "vite build && gh-pages -d build"
 	},
+	
 	"devDependencies": {
 		"@sveltejs/adapter-static": "^3.0.8",
 		"@sveltejs/kit": "^2.16.0",
