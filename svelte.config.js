@@ -5,7 +5,7 @@ const config = {
 	kit: {
 		adapter: adapter(),
 		paths: {
-        base: '/Llias'
+		base: process.env.NODE_ENV === "production" ? "/Llias" : "",	
 		}
 	}
 };
