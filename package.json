@@ -1,5 +1,6 @@
 {
 	"name": "website",
+	"homepage": "https://llias-workshop.github.io/Llias/",
 	"private": true,
 	"version": "0.0.1",
 	"type": "module",
@@ -10,17 +11,16 @@
 		"prepare": "svelte-kit sync || echo ''",
 		"format": "prettier --write .",
 		"lint": "prettier --check .",
-		"deploy": "vite build && gh-pages -d build"
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-static": "^3.0.8",
 		"@sveltejs/kit": "^2.16.0",
 		"@sveltejs/vite-plugin-svelte": "^5.0.0",
-		"@tailwindcss/typography": "^0.5.16",
+		"@tailwindcss/typography": "^0.5.15",
 		"@tailwindcss/vite": "^4.0.14",
-		"autoprefixer": "^10.4.21",
 		"gh-pages": "^6.3.0",
-		"postcss": "^8.5.3",
 		"prettier": "^3.4.2",
 		"prettier-plugin-svelte": "^3.3.3",
 		"svelte": "^5.0.0",
@@ -28,6 +28,7 @@
 		"vite": "^6.0.0"
 	},
 	"dependencies": {
+		"@tailwindcss/postcss7-compat": "^2.2.17",
 		"flowbite-svelte": "^0.48.4"
 	}
 }
