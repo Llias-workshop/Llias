@@ -38,4 +38,4 @@ jobs:
           export GOOGLE_APPLICATION_CREDENTIALS=$GITHUB_WORKSPACE/firebase.json
 
       - name: Deploy to Firebase Hosting
-        run: firebase deploy --only hosting:llias2025 --project sunplus-bfc7e
+        run: firebase deploy --only hosting --project sunplus-bfc7e
