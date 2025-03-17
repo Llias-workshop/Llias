@@ -1,8 +1,5 @@
 {
   "projects": {
-    "default": "sunplus-bfc7e",
-    "llias2025": "sunplus-bfc7e"
-  },
-  "targets": {},
-  "etags": {}
+    "default": "sunplus-bfc7e"
+  }
 }
