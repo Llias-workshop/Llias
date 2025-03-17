@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "sunplus-bfc7e"
+  },
+  "targets": {
+    "sunplus-bfc7e": {
+      "hosting": {
+        "llias2025": [
+          "llias2025"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

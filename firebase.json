@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "llias2025",
+      "public": "build",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    }
+  ]
+}
