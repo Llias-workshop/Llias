@@ -1,13 +1,15 @@
 {
-  "hosting": [
-    {
-      "target": "llias2025", 
-      "public": "build", 
-      "ignore": [
-        "firebase.json",
-        "**/.*",
-        "**/node_modules/**"
-      ]
+  "hosting": {
+    "site": "llias2025",
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "europe-west1",
+      "maxInstances": 1
     }
-  ]
+  }
 }
