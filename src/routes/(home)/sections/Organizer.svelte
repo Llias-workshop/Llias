@@ -3,8 +3,8 @@
     { name: 'Narjes Nikzad Khasmakhi', affiliation:'Gisma University of Applied Sciences', image: 'narjes.jpg', slug: 'narjes' },
     { name: 'Michael Färber', affiliation:'Technical University of Dresden, ScaDS.AI Center', image: 'michael.jpg', slug: 'michael' },
     { name: 'Mazhar Hameed', affiliation:'Gisma University of Applied Sciences', image: 'mazhar.jpg', slug: 'mazhar' },
-    { name: 'Shirin Tahmasebi', affiliation:'PhD candidate in the Department of Computer Science at KTH Royal Institute of Technology', image: 'shirin.jpg', slug: 'shirin' },
     { name: 'Sahar Vahdati', affiliation:'LUH/TIB - Leibniz Information Centre for Science and Technology', image: 'sahar.jpg', slug: 'sahar' },
+    { name: 'Shirin Tahmasebi', affiliation:'PhD candidate in the Department of Computer Science at KTH Royal Institute of Technology', image: 'shirin.jpg', slug: 'shirin' },
     { name: 'Nabiha Asghar', affiliation:'Senior Data and Applied Scientist at Microsoft USA', image: 'nabiha.jpg', slug: 'nabiha' },
     { name: 'Sanaz Alipour', affiliation:'Nature Inspired Machine Intelligence - The Institute for Applied Computer Science (NIMI-InfAI)', image: 'sanaz.jpg', slug: 'sanaz' },
   ];
