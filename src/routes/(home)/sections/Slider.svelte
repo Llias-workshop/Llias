@@ -5,7 +5,7 @@
         <div class="relative z-10 text-center col max-w-screen-xl mx-auto p-4 py-12">
             <p class="mb-6 font-light text-white lg:mb-8 md:text-lg lg:text-xl">--- Saturday, October 25th, 2025 ---</p>
             <p class="mb-6 font-light text-white lg:mb-8 md:text-lg lg:text-xl">Bologna, Italy</p>
-            <h1 class="mb-4 text-4xl text-center font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl text-white">Llias</h1>
+            <h1 class="mb-4 text-4xl text-center font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl text-white">Llais</h1>
             <p class="mb-6 font-light text-white lg:mb-8 md:text-lg lg:text-xl">
                 ECAI 2025 Workshop
             </p>

@@ -1,8 +1,8 @@
 <script>
     import Top from "./sections/Top.svelte";
-    import Desc from "./sections/Desc.svelte";
+    import Keynotes from "./sections/Keynotes.svelte";
 </script>
 <main>
     <Top/>
-    <Desc/>
+    <Keynotes/>
 </main>

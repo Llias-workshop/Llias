@@ -1,8 +1,8 @@
 <script>
     import Top from "./sections/Top.svelte";
-    import Desc from "./sections/Desc.svelte";
+    import ProgramCommittee from "./sections/ProgramCommittee.svelte";
 </script>
 <main>
     <Top/>
-    <Desc/>
+    <ProgramCommittee/>
 </main>
