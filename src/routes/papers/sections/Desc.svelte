@@ -11,13 +11,45 @@
         collaborative platform to discuss innovations, challenges, 
         and future opportunities</b> in designing, developing, and deploying intelligent agents powered by LLMs.
        </p>
+       <!--Submission Guidelines-->
+        <p class="pt-12 pb-6"><strong><span style='font-size:20px; color:#2D8CD0'>Submission Guidelines</span></strong></p>
+        <p>Submit your paper via EasyChair: <a href="https://easychair.org/conferences/?conf=llais1">https://easychair.org/conferences/?conf=llais1</a></p>
+        <p>We welcome contributions aligned with the themes of the workshop. Two types of submissions are invited:</p>
+        <ul type="circle" style="margin-bottom:0in;">
+            <li><b>Regular Papers</b> These should present original research, a critical survey, or applications to real-world scenarios. Length: Up to <b>12 pages</b> (excluding references and appendices), using the <a href="https://ceur-ws.org/HOWTOSUBMIT.html#CEURART">CEURART style format.</a></li>
+            <li><b>Short Papers</b> These can present early-stage ideas, novel concepts, or promising technologies, including preliminary results or prototypes.<b>Length</b>: Up to <b>6 pages</b> (excluding references and appendices), using the <a href="https://ceur-ws.org/HOWTOSUBMIT.html#CEURART">CEURART style format.</a></li>
+        </ul>
+        <p>Additional materials (e.g. demos, data, supplementary resources) can be uploaded as a ZIP archive via EasyChair.</p>
+        <p>All submissions must be original and unpublished, and must not be under review elsewhere.</p>
+        <p>The review process is double-blind, and papers will be evaluated based on originality, quality, and relevance to the workshop topics.</p>
+        <p>Accepted papers will be published in an open-access CEUR-WS volume.</p>
+        <p>At least one author must attend the workshop in person to present the work.</p>
+        <p>Where relevant, authors are encouraged to bring and demonstrate a working prototype.</p>
+        <!-- <p>
+            <a href="https://ceur-ws.org/HOWTOSUBMIT.html">CEUR-WS Submission Guidelines</a>.
+        </p>
+        <ul type="circle" style="margin-bottom:0in;">
+            <li><b>Full Papers:</b> Up to 10 pages</li>
+            <li><b>Short/Demo Papers:</b> Up to 4 pages</li>
+        </ul>
+        <p>The <b>review process is double-blind</b>, and papers will be evaluated based on <b>relevance, technical quality, and diversity</b>.</p>
 
+        <p class="pt-12 pb-6"><strong><span style='font-size:20px; color:#2D8CD0'>Submission Portal</span></strong></p>
+        <p>Submit your papers via <b>EasyChair:</b> <a href="https://easychair.org/conferences?conf=llais1"> EasyChair Submission Link</a></p>
+        <p class="pt-12 pb-6"><strong><span style='font-size:20px; color:#2D8CD0'>Important Dates</span></strong></p>
+        <p>Abstract Submission Deadline: <b>May 19, 2025</b></p>
+        <p>Full Paper Submission Deadline: <b>May 26, 2025 (Anywhere on Earth, AOE)</b></p> -->
 
 
         
-        <p class="pt-12 pb-6"><strong><span style='font-size:20px; color:#2D8CD0'>Topics of Interest</span></strong></p>
+        <p class="pt-12 pb-6"><strong><span style='font-size:20px; color:#2D8CD0'>List of Topics</span></strong></p>
+        <p>LLAIS 2025 invites contributions that advance the understanding, development, 
+            and deployment of LLM-based agents across various dynamic, real-world domains. 
+            We are particularly interested in research and practical applications of LLM-based 
+            agents across the following key domains:
+        </p>
         <p>
-            We welcome original research contributions on, but not limited to, the following topics:
+            Relevant themes and topics include, but are not limited to, the following:
         </p>
         <ul type="disc" style="margin-bottom:0in;">
             <li><strong><span style='font-size:18px;'>Knowledge Graph Enhancement</span></strong>
@@ -76,23 +108,12 @@
                 </ul>
             </li>
         </ul>
-        <p class="pt-12 pb-6"><strong><span style='font-size:20px; color:#2D8CD0'>Submission Guidelines</span></strong></p>
-        <p>
-            All submissions must be <b>original</b> and not under consideration elsewhere. Papers must follow the <b>CEUR-WS.org formatting guidelines</b>,
-             using the official LaTeX or Word templates, available at <a href="https://ceur-ws.org/HOWTOSUBMIT.html">CEUR-WS Submission Guidelines</a>.
-        </p>
-        <ul type="circle" style="margin-bottom:0in;">
-            <li><b>Full Papers:</b> Up to 10 pages</li>
-            <li><b>Short/Demo Papers:</b> Up to 4 pages</li>
-        </ul>
-        <p>The <b>review process is double-blind</b>, and papers will be evaluated based on <b>relevance, technical quality, and diversity</b>.</p>
-
-        <p class="pt-12 pb-6"><strong><span style='font-size:20px; color:#2D8CD0'>Submission Portal</span></strong></p>
-        <p>Submit your papers via <b>EasyChair:</b> <a href="https://easychair.org/conferences?conf=llais1"> EasyChair Submission Link</a></p>
+        <!-- Importand Dates-->
         <p class="pt-12 pb-6"><strong><span style='font-size:20px; color:#2D8CD0'>Important Dates</span></strong></p>
-        <p>Abstract Submission Deadline: <b>May 19, 2025</b></p>
-        <p>Full Paper Submission Deadline: <b>May 26, 2025 (Anywhere on Earth, AOE)</b></p>
-
+        <p><b>Paper submission deadline:</b> June 16, 2025 (Anywhere on Earth, AOE) via EasyChair</p>
+        <p><b>Notification of acceptance:</b> July 25, 2025</p>
+        <p><b>Camera-ready papers due:</b> September 25, 2025</p>
+        <p><b>Workshop date:</b> TBA (October 25 or 26, 2025)</p>
     </div>
 </section>
 <section class="bg-gray-200">
