@@ -13,11 +13,13 @@
     <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
       {#each organizers as organizer}
         <div class="bg-white rounded-lg shadow-lg overflow-hidden">
+          <a href={`/about?slug=${encodeURIComponent(organizer.slug)}`} class="block">
             <img src="{organizer.image}" alt={organizer.name} class="w-full h-64 object-cover">
             <div class="p-6">
               <h3 class="text-2xl font-semibold text-gray-800">{organizer.name}</h3>
               <p class="text-gray-600 mb-4">{organizer.affiliation}</p>
             </div>
+          </a>
         </div>
       {/each}
     </div>
