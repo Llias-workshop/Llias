@@ -10,19 +10,16 @@
 </script>
 
 <section class="py-16 bg-gray-100">
-  <div class="max-w-screen-xl mx-auto px-6">
-    <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+  <div class="max-w-screen-md mx-auto px-6">
+    <ul class="divide-y divide-gray-200">
       {#each organizers as organizer}
-        <div class="bg-white rounded-lg shadow-lg overflow-hidden">
-          <a href={`/about?slug=${encodeURIComponent(organizer.slug)}`} class="block">
-            <img src="{organizer.image}" alt={organizer.name} class="w-full h-64 object-cover">
-            <div class="p-6">
-              <h3 class="text-2xl font-semibold text-gray-800">{organizer.name}</h3>
-              <p class="text-gray-600 mb-4">{organizer.affiliation}</p>
-            </div>
+        <li class="px-4 py-3 odd:bg-gray-50 even:bg-white">
+          <a href={`/about?slug=${encodeURIComponent(organizer.slug)}`} class="font-semibold text-blue-600 hover:underline">
+            {organizer.name}
           </a>
-        </div>
+          <span class="text-gray-700"> – {organizer.affiliation}</span>
+        </li>
       {/each}
-    </div>
+    </ul>
   </div>
 </section>
