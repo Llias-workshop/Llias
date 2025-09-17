@@ -1,7 +1,7 @@
 <script>
   let organizers = [
     { name: 'Meysam Asgari-Chenaghlu', affiliation:'Staff Machine Learning Scientist, Zendesk, Germany', image: 'meysam.jpeg', slug: 'meysam' },
-    { name: 'Vipul Agarwal', affiliation:'Principal Applied Science Manager - Microsoft, Redmond WA, USA', image: 'vipul.jpeg', slug: 'vipul' },
+    // { name: 'Vipul Agarwal', affiliation:'Principal Applied Science Manager - Microsoft, Redmond WA, USA', image: 'vipul.jpeg', slug: 'vipul' },
     //{ name: 'Mohammad Aliannejadi', affiliation:'Assistant Professor, University of Amsterdam, The Netherlands', image: 'alian.jpg', slug: 'alian'},
     { name: 'Savas Yildirim', affiliation:'Professor, Istanbul Bilgi University, Turkey', image: 'savas.jpg', slug: 'savas' },
      

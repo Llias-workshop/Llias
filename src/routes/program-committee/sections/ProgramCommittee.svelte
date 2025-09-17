@@ -3,9 +3,9 @@
     { name: 'Cassiano O. Becker', affiliation:'Senior Applied Scientist, Microsoft, Brazil', image: 'cassiano.jpeg', slug: 'cassiano' },
     { name: 'Philipp Schaer', affiliation:'Professor, Cologne University of Applied Sciences (TH Köln),Germany ', image: 'philip.jpeg', slug: 'philip' },
     { name: 'Purvanshi Mehta', affiliation:'Cofounder at lica.world, San Francisco, USA', image: 'purvanshi.jpeg', slug: 'purvanshi' },  
-    { name: 'Klaus Berberich', affiliation:'Professor, Saarland University of Applied Sciences (htw saar), Germany ', image: 'klaus.jpeg', slug: 'klaus' },
+    // { name: 'Klaus Berberich', affiliation:'Professor, Saarland University of Applied Sciences (htw saar), Germany ', image: 'klaus.jpeg', slug: 'klaus' },
     { name: 'Mohammad Ali Balafar', affiliation:'Professor, Tabriz University, Iran', image: 'mohammad.jpeg', slug: 'mohammad' },
-    { name: 'Simon Razniewsky', affiliation:'Professor, Technical University Dresden, Germany', image: 'simon.jpg', slug: 'simon'},  
+    // { name: 'Simon Razniewsky', affiliation:'Professor, Technical University Dresden, Germany', image: 'simon.jpg', slug: 'simon'},  
   ];
 </script>
 
