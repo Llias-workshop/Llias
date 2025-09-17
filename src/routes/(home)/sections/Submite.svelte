@@ -3,5 +3,10 @@
         <p class="text-3xl font-extrabold text-center text-gray-800 mb-12">
             <a href="/papers" class="hover:text-blue-900 transition-colors duration-200">Submit your paper via EasyChair</a>
         </p>
+        <p class="text-center pt-12 pb-6"><strong><span style='font-size:20px; color:#2D8CD0'>Important Dates</span></strong></p>
+        <p class="text-center"><b>Paper submission deadline:</b> July 31, 2025 (Anywhere on Earth, AOE) via EasyChair</p>
+        <p class="text-center"><b>Notification of acceptance:</b> August 20, 2025</p>
+        <p class="text-center"><b>Camera-ready papers due:</b> September 25, 2025</p>
+        <p class="text-center"><b>Workshop date:</b> TBA (October 25 or 26, 2025)</p>
     </div>
 </section>
