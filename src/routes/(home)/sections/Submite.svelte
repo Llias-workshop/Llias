@@ -7,6 +7,6 @@
         <p class="text-center"><b>Paper submission deadline:</b> August 31, 2025 (Anywhere on Earth, AOE) via EasyChair</p>
         <p class="text-center"><b>Notification of acceptance:</b>September 15, 2025</p>
         <p class="text-center"><b>Camera-ready papers due:</b> September 25, 2025</p>
-        <p class="text-center"><b>Workshop date:</b> TBA (October 25 or 26, 2025)</p>
+        <p class="text-center"><b>Workshop date:</b> Saturday Morning, October 25th, 2025</p>
     </div>
 </section>
