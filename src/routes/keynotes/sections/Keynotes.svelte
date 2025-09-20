@@ -10,7 +10,7 @@
 
 <section class="py-16 bg-gray-100">
   <div class="max-w-screen-xl mx-auto px-6">
-    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+    <div class="grid md:grid-cols-2 lg:grid-cols-2 gap-64">
       {#each organizers as organizer}
         <div class="bg-white rounded-lg shadow-lg overflow-hidden">
           <a href={`/about?slug=${encodeURIComponent(organizer.slug)}`} class="block">

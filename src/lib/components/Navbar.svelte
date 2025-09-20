@@ -41,6 +41,7 @@
       <li><a href="{base}/keynotes" class="block py-2 px-3 text-gray-900 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700">Keynotes</a></li>
       <!-- <li><a href="{base}/speakers" class="block py-2 px-3 text-gray-900 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700">Speakers</a></li> -->
       <li><a href="{base}/papers" class="block py-2 px-3 text-gray-900 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700">Call for Papers</a></li>
+      <li><a href="{base}/accepted-papers" class="block py-2 px-3 text-gray-900 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"> Accepted Papers</a></li>
       <li><a href="{base}/program-committee" class="block py-2 px-3 text-gray-900 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700">Program Committee</a></li>
     </ul>
   </div>
