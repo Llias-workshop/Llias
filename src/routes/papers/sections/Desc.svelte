@@ -110,10 +110,10 @@
         </ul>
         <!-- Importand Dates-->
         <p class="pt-12 pb-6"><strong><span style='font-size:20px; color:#2D8CD0'>Important Dates</span></strong></p>
-        <p><b>Paper submission deadline:</b> August 15, 2025 (Anywhere on Earth, AOE) via EasyChair</p>
-        <p><b>Notification of acceptance:</b> August 31, 2025</p>
-        <p><b>Camera-ready papers due:</b> September 25, 2025</p>
-        <p><b>Workshop date:</b> TBA (October 25 or 26, 2025)</p>
+        <p><b>Paper submission deadline:</b> August 31, 2025 (Anywhere on Earth, AOE) via EasyChair</p>
+        <p><b>Notification of acceptance:</b> September 15, 2025</p>
+        <p><b>Camera-ready papers due:</b> September 27, 2025</p>
+        <p><b>Workshop date:</b> October 25th, 2025</p>
     </div>
 </section>
 <section class="bg-gray-200">

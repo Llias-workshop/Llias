@@ -6,7 +6,7 @@
         <p class="text-center pt-12 pb-6"><strong><span style='font-size:20px; color:#2D8CD0'>Important Dates</span></strong></p>
         <p class="text-center"><b>Paper submission deadline:</b> August 31, 2025 (Anywhere on Earth, AOE) via EasyChair</p>
         <p class="text-center"><b>Notification of acceptance:</b>September 15, 2025</p>
-        <p class="text-center"><b>Camera-ready papers due:</b> September 25, 2025</p>
+        <p class="text-center"><b>Camera-ready papers due:</b> September 27, 2025</p>
         <p class="text-center"><b>Workshop date:</b> Saturday Morning, October 25th, 2025</p>
     </div>
 </section>
