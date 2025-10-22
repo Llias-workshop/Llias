@@ -4,7 +4,6 @@
     { name: 'Purvanshi Mehta', affiliation:'lica.world', image: 'purvanshi.jpeg', slug: 'purvanshi' },
     { name: 'Cassiano O. Becker', affiliation:'Senior Applied Scientist, Microsoft', image: 'cassiano.jpeg', slug: 'cassiano' },
     { name: 'Mohammad Ali Balafar', affiliation:'Professor, Tabriz University, Iran', image: 'mohammad.jpeg', slug: 'mohammad' },
-    { name: 'Mohammad Ali Balafar', affiliation:'Professor, Tabriz University, Iran', image: 'mohammad.jpeg', slug: 'mohammad' },
     { name: 'Hiba Khalid', affiliation:'Bertelsmann SE & Co.', image: '', slug: '' },
     { name: 'Sindri Magnusson', affiliation:'Stockholm University', image: '', slug: '' },
     { name: 'Dietlind Zühlke', affiliation:'TH Köln (University of Applied Sciences)', image: '', slug: '' },
