@@ -2,7 +2,7 @@
   let papers = [
     { Aname: 'Sirui Zhu and Charlie Cheng', title:'Duel-RAG: Retrieval-Augmented Generation for Yu-Gi-Oh!', type:'Full Presentation'},
     { Aname: 'Hongliu Cao, Ilias Driouich, Robin Singh and Eoin Thomas', title:'Balancing Adaptivity and Alignment: A Multi-Agent System for Personalized LLM Judge design', type:'Poster'},
-    { Aname: 'Farzaneh Lashgari, Sebastião Pais, Mehran Pourvahab, António Sousa and Anilson Monteiro', title:'D-LEXI-LLM: A Depression-aware and Lexically-Guided Language Model for Analyzing Social Media Posts', type:'Poster'},
+    { Aname: 'Farzaneh Lashgari, Sebastião Pais, Mehran Pourvahab, António Sousa and Anilson Monteiro', title:'D-LEXI-LLM: A Depression-aware and Lexically-Guided Language Model for Analyzing Social Media Posts', type:'Full Presentation'},
     { Aname: 'Valentin Cuzin-Rambaud, Emilien Komlenovic, Alexandre Faure and Bruno Yun', title:'VIRAL: Vision-grounded Integration for Reward design And Learning', type:'Poster'},
     { Aname: 'Nicola Aggio, Alberto De Lazzari and Teresa Scantamburlo', title:'A Graph-Enhanced LLM-Based Question Answering System for the AI Act', type:'Full Presentation'},
     { Aname: 'Daniel Platnick, Mohamed Elamine Bengueddache, Marjan Alirezaie, Dava J. Newman, Alex Sandy Pentland and Hossein Rahnama', title:'ID-RAG: Identity Retrieval-Augmented Generation for Long-Horizon Persona Coherence in Generative Agents', type:'Full Presentation'},
