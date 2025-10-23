@@ -28,7 +28,7 @@
       session: "Poster Flash Talks (3)",
       des:"5 min each Lightning Talks I (includes a 5-minute transition)",
       papers: [
-        { title: "D-LEXI-LLM: A Depression-aware and Lexically-Guided Language Model for Analyzing Social Media Posts", authors: "Farzaneh Lashgari, Sebastião Pais, Mehran Pourvahab, António Sousa and Anilson Monteiro" },
+        { title: "Balancing Adaptivity and Alignment: A Multi-Agent System for Personalized LLM Judge design", authors: "Hongliu Cao, Ilias Driouich, Robin Singh and Eoin Thomas" },
         { title: "VIRAL: Vision-grounded Integration for Reward design And Learning", authors: "Valentin Cuzin-Rambaud, Emilien Komlenovic, Alexandre Faure and Bruno Yun" },
         { title: "LLM-based intelligent agents for sustainable last-mile logistics: Insights from parcel locker use and expert evaluation", authors: "Anna Drab-Kurowska, Agnieszka Budziewicz-Guźlecka, Joanna Drobiazgiewicz, Piotr Gutowski, Michał Kuściński and Krzysztof Lorenz" }
       ]
